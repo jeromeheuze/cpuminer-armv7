@@ -1,0 +1,1 @@
+./cpuminer -a yescrypt -o stratum+tcp://asia.zergpool.com:6233 -u YOUR_WALLET -p c=BSTY

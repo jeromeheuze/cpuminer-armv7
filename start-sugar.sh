@@ -1,0 +1,1 @@
+./cpuminer -a yespowerSUGAR -o stratum+tcp://asia.zergpool.com:6535 -u YOUR_WALLET -p c=SUGAR

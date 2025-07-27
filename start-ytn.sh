@@ -1,0 +1,1 @@
+./cpuminer -a yespowerr16 -o stratum+tcp://asia.zergpool.com:6534 -u YOUR_WALLET -p c=YTN

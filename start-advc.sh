@@ -1,0 +1,1 @@
+./cpuminer -a yespowerADVC -o stratum+tcp://asia.zergpool.com:6240 -u YOUR_WALLET -p c=ADVC
